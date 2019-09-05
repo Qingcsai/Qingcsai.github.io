@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Automation, South China University of Techonology, 2020
-* M.S. in Chinese Academy of Sciences, 2023
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in siat-mmlab, Chinese Academy of Sciences, 2023
 
 Work experience
 ======
@@ -27,14 +26,10 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Awards and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National Endeavor Scholarship (2016-2017)
+* Huiding Technology Scholarship (2017-2018)
 
 Publications
 ======
