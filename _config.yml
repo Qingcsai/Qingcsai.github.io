@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-PRC"
-title                    : "Qing Chen / Welcome to Chen Qing's Homepage."
+title                    : "Qing Chen / Welcome to Qing Chen's Homepage."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Qing Chen"
   avatar           : "profile.png"
-  bio              : "Hello world!"
+  bio              : "Carpe Diem."
   location         : "Guangzhou"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  chenq.scut@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
