@@ -32,8 +32,7 @@ Research Experiences
   * Based on stm32f4 controller, the project is developed from three aspects:stable flight control system, image segmentation algorithm and real-time data transmission system. It realizes four-rotor aerial mapping intelligent aircraft based on stm32f4. 
   * I was responsible for the construction of the four-rotor aerial, the optimization of the adaptive control algorithm and the image acquisition.
   
-/**
-
+ 
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -45,8 +44,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-*/
+
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019 Guangzhou Spring Festival Youth Volunteer
