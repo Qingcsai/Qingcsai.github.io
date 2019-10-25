@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-PRC"
-title                    : "Qing Chen / Welcome to Qing Chen's Homepage."
+title                    : "Welcome to Qing Chen's Homepage."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   location         : "Guangzhou"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "Nope"
   email            :  chenq.scut@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
