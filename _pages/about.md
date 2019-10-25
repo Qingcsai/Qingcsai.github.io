@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MewTwo"
+title: "Nice to see u"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
