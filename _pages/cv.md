@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and Experience
 ======
-* B.S. in Automation, South China University of Techonology, 2020
-* M.S. in siat-mmlab, Chinese Academy of Sciences, 2023
+* B.S. in Automation, South China University of Techonology, 2016.9-2020.7
+* Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-2020.7
+* M.S. in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2020.9-2023.7
 
 Awards and Honors
 ======
@@ -20,6 +21,7 @@ Awards and Honors
 * National Endeavor Scholarship (2017.11)
 * Meritorious Winner of Mathematical Contest In Modeling (2018.04)
 * Goodix Technology Scholarship (2018.12)
+* The Second Prize Scholarship (2020.10)
 
 Research Experiences
 ======
