@@ -16,7 +16,6 @@ Education and Experience
   * GPA 3.74/4.0
 
 * Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-2020.7
-
 * M.S. in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2020.9-2023.7
 
 Awards and Honors
