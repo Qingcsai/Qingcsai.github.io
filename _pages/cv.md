@@ -12,8 +12,8 @@ redirect_from:
 Education and Experience
 ======
 * B.S. in Automation, South China University of Techonology, 2016.9-2020.7
-** ranking 9/197
-** GPA 3.74/4.0
+  * Ranking 9/197
+  * GPA 3.74/4.0
 
 * Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-2020.7
 
