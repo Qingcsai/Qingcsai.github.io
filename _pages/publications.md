@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Papers may come out at some special time in my life.
-*Be patience. 
+** Papers may come out at some special time in my life.
+
+Just Be Patience. 
 
 
 {% if author.googlescholar %}
@@ -15,8 +16,8 @@ author_profile: true
 
 {% include base_path %}
 
-/*:
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-*/
+
+//:{% for post in site.publications reversed %}
+//:  {% include archive-single.html %}
+//:{% endfor %}
+
