@@ -11,13 +11,20 @@ redirect_from:
 
 Education and Experience
 ======
+<img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/scut_logo.jpg' align=right width=100 height=100/>
+
 * B.S. in Automation, South China University of Techonology, 2016.9-2020.7
   * Ranking: 9/197
   * GPA: 3.74/4.0
-[](https://github.com/Qingcsai/Qingcsai.github.io/blob/master/images/scut_logo.jpg)
+ 
+ 
+<img src='https://github.com/Qingcsai/Qingcsai.github.io/blob/master/images/siat_logo.jpg' align=right width=100 height=100/>
+
 * Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-2020.7
+
 * M.S. in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2020.9-2023.7
 
+ 
 Awards and Honors
 ======
 * The 3rd Place of the “Sailing Month” Automation Control Competition of SCUT, 2017.05
