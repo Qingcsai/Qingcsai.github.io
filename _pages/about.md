@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nice to see u"
+title: "Nice to see u!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
-Do u miss me?
+I am a senior student at South China University of Technology, China Guangdong Guangzhou.
+Currently, I am an intern  at MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences (CAS-SIAT), advising
+ by Associate Professor Xiaojiang Peng. 
+   
+  My current interests focus on:
+  Generanting faces based on generative models.
