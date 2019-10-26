@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-** Papers may come out at some special time in my life.
+**Papers may come out at some special time in my life.**
 
 Just Be Patience. 
 
