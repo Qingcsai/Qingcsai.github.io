@@ -16,8 +16,8 @@ Just Be Patience.
 
 {% include base_path %}
 
-
-//:{% for post in site.publications reversed %}
-//:  {% include archive-single.html %}
-//:{% endfor %}
+[^_^]:
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
