@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student at South China University of Technology, China Guangdong Guangzhou.
+I am a senior student at South China University of Technology, Guangzhou.
 
-Currently, I am an intern  at MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences (CAS-SIAT), advising
- by Associate Professor Xiaojiang Peng. 
-   
-  My current interests focus on:  
+Currently, I am an intern  at MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences (CAS-SIAT), advising by Associate Professor Xiaojiang Peng. 
+
+My current interests focus on:  
   * Generanting faces based on generative models.
