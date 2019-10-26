@@ -14,7 +14,7 @@ Education and Experience
 * B.S. in Automation, South China University of Techonology, 2016.9-2020.7
   * Ranking: 9/197
   * GPA: 3.74/4.0
-
+[](https://github.com/Qingcsai/Qingcsai.github.io/blob/master/images/scut_logo.jpg)
 * Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-2020.7
 * M.S. in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2020.9-2023.7
 
