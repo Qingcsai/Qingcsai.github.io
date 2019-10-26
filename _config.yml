@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qing Chen"
+  name             : "Qing Chen (陈庆)"
   avatar           : "profile1.jpg"
   bio              : "Carpe Diem."
   location         : "Guangzhou"
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Qingcsai"
+  csdn             : "https://me.csdn.net/sinat_38132146"
   google_plus      :
   keybase          :
   instagram        :
