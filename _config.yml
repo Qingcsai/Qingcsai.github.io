@@ -9,7 +9,7 @@
 locale                   : "en-PRC"
 title                    : "Qing Chen"
 title_separator          : "-"
-name                     : &name "Qing Chen"
+name                     : &name "Qing Chen (陈庆)"
 description              : &description "personal description"
 url                      : "https://qingcsai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
