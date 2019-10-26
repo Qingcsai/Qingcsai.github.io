@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-======
+
 * A Intelligent Classroom Attendance System Based on Dynamic Face Recognition (2018.05 – 2019.05)
   * Research Project of National Training Program of Innovation and Entrepreneurship for Undergraduates(Completed)。 
   * This project uses face recognition algorithm based on deep learning to develop a real-time system for intelligent attendance in college classrooms from three aspects: face real-time detection and recognition algorithm, system interface construction, data acquisition and database operation. 
