@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-PRC"
-title                    : "Home."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Qing Chen"
 description              : &description "personal description"
