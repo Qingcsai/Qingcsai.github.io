@@ -1,0 +1,75 @@
+---
+title: '《Generative Adversarial Nets--2014--Ian J. Goodfellow》论文笔记¶'
+date: 2019-10-27
+permalink: /posts/2019/10/blog-post-2/
+tags:
+  - papernote
+---
+
+# 《Generative Adversarial Nets--2014--Ian J. Goodfellow》论文笔记
+
+
+## 1 Mathematical Theory Analysis
+
+D and G play the following two-player minimax game with value function V (G; D):  
+
+$$ \min_{G} \max_{D} V(D, G)  = E_{x\sim p_{data}(x)}\left[log D(x)\right] +E_{z\sim p_{z}(z)}\left[log\left(1 - D(G(z))\right)\right] $$  
+
+where:  
+    $p_{z}(z)$input noise variables  
+    $p_{g}(x)$: generator's distribution over data $x$  
+    $G(z; \theta_{g}) $represent a mapping to data space  
+    $D(x)$ represents the probability that $x$ came from the data rather than $p_{g}$
+    
+    
+    
+### 1.1 Global Optimality of $P_{G} = P_{data}$
+We first consider the optimal discriminator D for any given generator G.  
+### Proposition 1. 
+* For G fixed, the optimal discriminator D is
+$$D^{*}_{G}(x) = \frac{P_{data}(x)}{P_{data}(x) +  P_{G}(x)}$$
+
+#### Proof. 
+
+\begin{align}
+V(D, G)  &= E_{x\sim P_{data}(x)}[log D(x)] +E_{z\sim P_{z}(z)}[log(1 - D(G(z)))] \\
+&= \int_{x}P_{data}(x)log D(x)dx +\int_{x}P_{G}(x)log(1 - D(x))dx \\
+&= \int_{x}\left[ P_{data}(x)log D(x) +P_{G}(x)log(1 - D(x))\right]dx
+\end{align}
+
+Given x, the optimal D* maximizing: 
+$$P_{data}(x)log D(x) +P_{G}(x)log(1 - D(x))$$
+
+Find D* maximizing:   $f(𝐷) = a𝑙𝑜𝑔(𝐷) + 𝑏𝑙𝑜𝑔(1 − D)$
+\begin{align}
+    \Rightarrow  &\frac{\mathrm{d}(D)}{\mathrm{d}D} = a\times \frac{1}{D} + b\times \frac{1}{1 - D}\times (-1) = 0 \\
+    \Rightarrow  &D^{* } = \frac{a}{a + b}  \\
+    \Rightarrow  & 0< D^{* }(x) = \frac{P_{data}(x)}{P_{data}(x) +  P_{G}(x)} <1
+\end{align}
+
+### Theorem 1. 
+* The global minimum of the virtual training criterion $\max\limits_{D}V(G, D)$ is achieved if and only if $P_{G} = P_{data}$. At that point, $\max\limits_{D} V(G, D)$ achieves the value $-log4$  
+
+#### Proof.
+\begin{align}
+    \max_{D} V(G, D) &= V(G, D^{* })  \\
+    &= E_{x\sim P_{data}(x)} \left[log\frac{P_{data}(x)}{P_{data}(x)+  P_{G}(x)}\right]+ E_{x\sim P_{G}(x)} \left[log\frac{P_{G}(x)}{P_{data}(x) +  P_{G}(x)}\right] \\
+    &= \int_{x} P_{data}(x)\left[log\frac{P_{data}(x)}{P_{data}(x)+  P_{G}(x)}\right]dx+ \int_{x}  P_{G}(x)\left[log\frac{P_{G}(x)}{P_{data}(x) +  P_{G}(x)}\right]dx \\
+    &=  \int_{x} P_{data}(x)\left[log\frac{\frac{1}{2} P_{data}(x)}{(P_{data}(x)+  P_{G}(x))/2}\right]dx+ \int_{x}  P_{G}(x)\left[log\frac{\frac{1}{2}P_{G}(x)}{(P_{data}(x) +  P_{G}(x))/2}\right]dx \\
+    &= \left(\int_{x} P_{data}(x)dx + \int_{x}  P_{G}(x)dx\right)log(\frac{1}{2}) + \int_{x} P_{data}(x)\left[log\frac{ P_{data}(x)}{(P_{data}(x)+  P_{G}(x))/2}\right]dx+ \int_{x}  P_{G}(x)\left[log\frac{P_{G}(x)}{(P_{data}(x) +  P_{G}(x))/2}\right]dx \\
+    &= 2log(\frac{1}{2}) + \int_{x} P_{data}(x)\left[log\frac{ P_{data}(x)}{(P_{data}(x)+  P_{G}(x))/2}\right]dx+ \int_{x}  P_{G}(x)\left[log\frac{P_{G}(x)}{(P_{data}(x) +  P_{G}(x))/2}\right]dx \\
+    &= -2log(2) + KL\left(P_{data}|| \frac{P_{data}(x)+  P_{G}(x)}{2}\right) + KL\left(P_{G}|| \frac{P_{data}(x)+  P_{G}(x)}{2}\right) \\
+    &= -log(4) + 2JSD(P_{data}||P_{G})
+\end{align}
+
+We set
+$$C(G) = V (D^{* }; G)$$
+we obtain
+$$C(G) = -log(4) + 2JSD(P_{data}||P_{G})$$
+
+
+PS:  
+From the definition of KL divergence and JS devergence,
+$$JSD(P_1, P_2) = \frac{1}{2}KL({P_1}||\frac{P_1 + P_2}{2}) + \frac{1}{2}KL({P_1}||\frac{P_1 + P_2}{2} )    $$
+
+Since the Jensen–Shannon divergence between two distributions is always non-negative, and zero if they are equal, we have shown that $ C^*= − log(4)$ is the global minimum of $C(G)$ and that the only solution is $P_G = P_{data}$, i.e., the generative model perfectly replicating the data distribution.
