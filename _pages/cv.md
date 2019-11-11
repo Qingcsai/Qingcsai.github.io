@@ -12,6 +12,7 @@ redirect_from:
 Education 
 ======
 ![](https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/scut_logo30.png)
+
 [//]: <img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/scut_logo30.png' align=right width=70 height=70/>
 
 * Expected to get B.S. in Automation, South China University of Techonology, 2016.9-present
