@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education and Experience
+Education 
 ======
+![](https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/scut_logo30.png)
 [//]: <img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/scut_logo30.png' align=right width=70 height=70/>
 
-* B.S. in Automation, South China University of Techonology, 2016.9-2020.7
+* Expected to get B.S. in Automation, South China University of Techonology, 2016.9-present
 
 [//]:   <img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png' align=right width=70 height=70/>
 
-* Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-2020.7
-
-
+Work Experience
+=====
+* Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-present
  
 Awards and Honors
 ======
