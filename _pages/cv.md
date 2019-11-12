@@ -17,6 +17,7 @@ Education
 
 ![imagescut]({{'/images/scut_logo30.png' | prepend: site.baseurl}})
 
+<img src={{'/images/scut_logo30.png' | prepend: site.baseurl}} align=right width=70 height=70/>
 
 <img src='https://raw.githubusercontent.com/Qingcsai/Qingcsai.github.io/master/images/scut_logo30.png' align=right width=70 height=70/>
 
