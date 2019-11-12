@@ -15,7 +15,7 @@ Education
 
 [//]:![imagescut](https://github.com/Qingcsai/Qingcsai.github.io/tree/master/images/scut_logo30.png)
 
-![imagescut](https://raw.githubusercontent.com/Qingcsai/Qingcsai.github.io/master/images/scut_logo30.png）
+<img src='https://raw.githubusercontent.com/Qingcsai/Qingcsai.github.io/master/images/scut_logo30.png' align=right width=70 height=70/>
 
 [//]:  <img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png' align=right width=70 height=70/>
 
