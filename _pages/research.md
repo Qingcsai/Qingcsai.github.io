@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
+Projects
+=====
 * A Intelligent Classroom Attendance System Based on Dynamic Face Recognition (2018.05 – 2019.05)
   * Research Project of National Training Program of Innovation and Entrepreneurship for Undergraduates(Completed)。 
   * This project uses face recognition algorithm based on deep learning to develop a real-time system for intelligent attendance in college classrooms from three aspects: face real-time detection and recognition algorithm, system interface construction, data acquisition and database operation. 
@@ -18,4 +19,3 @@ redirect_from:
   * Research Project of Hundred Step Climbing Program of South China University of Technology(Completed)。 
   * Based on stm32f4 controller, the project is developed from three aspects:stable flight control system, image segmentation algorithm and real-time data transmission system. It realizes four-rotor aerial mapping intelligent aircraft based on stm32f4. 
   * I was responsible for the construction of the four-rotor aerial, the optimization of the adaptive control algorithm and the image acquisition.
- 
