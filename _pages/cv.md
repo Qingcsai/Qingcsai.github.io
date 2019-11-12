@@ -11,15 +11,20 @@ redirect_from:
 
 Education 
 ======
+* Undergraduate student in Automation, South China University of Techonology, 2016.9-present
+
 ![](https://github.com/Qingcsai/Qingcsai.github.io/tree/master/images/scut_logo30.png)
 
-* Expected to get B.S. in Automation, South China University of Techonology, 2016.9-present
-
 [//]:   <img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png' align=right width=70 height=70/>
+
 Work Experience
 =====
 * Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-present
- 
+
+Experience
+=====
+* Short-term exchange in Chinese University of Hong Kong, Hong Kong University of Science and Technology and Hong Kong Polytechnic University, 2018.11
+
 Awards and Honors
 ======
 * The 3rd Place of the “Sailing Month” Automation Control Competition of SCUT, 2017.05
