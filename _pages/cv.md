@@ -13,7 +13,9 @@ Education
 ======
 * Undergraduate student in Automation, South China University of Techonology, 2016.9-present
 
-![](https://github.com/Qingcsai/Qingcsai.github.io/tree/master/images/scut_logo30.png)
+[//]:![imagescut](https://github.com/Qingcsai/Qingcsai.github.io/tree/master/images/scut_logo30.png)
+
+![imagescut](https://raw.githubusercontent.com/Qingcsai/Qingcsai.github.io/master/images/scut_logo30.png）
 
 [//]:  <img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png' align=right width=70 height=70/>
 
@@ -23,7 +25,10 @@ Work Experience
 
 Experience
 =====
-* Short-term exchange in Chinese University of Hong Kong, Hong Kong University of Science and Technology and Hong Kong Polytechnic University, 2018.11
+* Short-term exchange, 2018.11
+  * Chinese University of Hong Kong (CUHK)
+  * Hong Kong University of Science and Technology (HKUST)
+  * Hong Kong Polytechnic University, (PolyU)
 
 Research Experiences
 ======
