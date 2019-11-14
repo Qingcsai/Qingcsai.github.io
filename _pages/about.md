@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in South China University of Technology, and is expecting to obtaine B.Eng. in 2020.
+I am an undergraduate student in South China University of Technology, and is expecting to obtaine my B.Eng. in 2020.
 
 Currently, I am also an intern at MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences ([CAS-SIAT](http://www.siat.ac.cn/)), advising by Associate Prof. [Xiaojiang Peng](https://pengxj.github.io/). 
 
