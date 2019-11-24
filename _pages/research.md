@@ -11,7 +11,7 @@ redirect_from:
 
 Projects
 =====
-* **An Intelligent Classroom Attendance System Based on Dynamic Face Recognition** (2018.05 – 2019.05)
+* **[An Intelligent Classroom Attendance System Based on Dynamic Face Recognition](https://github.com/Qingcsai/Face-Recognition-Intelligent-Classroom-Attendence-System)** (2018.05 – 2019.05)
   * Research Project of *National Training Program of Innovation and Entrepreneurship for Undergraduates*(Completed)。 
   * This project uses face recognition algorithm based on deep learning to develop a real-time system for intelligent attendance in college classrooms from three aspects: face real-time detection and recognition algorithm, system interface construction, data acquisition and database operation. 
   * As the project leader, I was responsible for the implementation and optimization of face detection and recognition algorithm, the construction of the software operation interface and the management of the face database. 
