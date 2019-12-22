@@ -15,7 +15,7 @@ redirect_from:
 *B.Eng, Automation*  
 *School of Automation Science & Engineering*
 
-![imagescut]({{'./images/scut_logo30.png' | prepend: site.baseurl}})
+![imagescut]({{'/images/scut_logo30.png' | prepend: site.baseurl}})
 
 [//]: <img src="https://raw.githubusercontent.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png" align="right" width=70 height=70/>
 
