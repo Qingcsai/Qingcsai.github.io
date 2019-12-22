@@ -12,7 +12,6 @@ redirect_from:
 # Education 
 
 ![imagescut]({{'/images/scut_logo30.png' | prepend: site.baseurl}})
-
 * **South China University of Techonology, Guangzhou, China** 2016.9 - 2020.7 (expected)  
 *B.Eng, Automation*  
 *School of Automation Science & Engineering*
