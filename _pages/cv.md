@@ -25,7 +25,8 @@ redirect_from:
 
 # Exchange Experience
 
-* 2018.11 - Short-term exchange in Chinese University of Hong Kong (CUHK), Hong Kong University of Science and Technology (HKUST) and Hong Kong Polytechnic University (PolyU). 
+* 2018.11
+  * Short-term exchange in Chinese University of Hong Kong (CUHK), Hong Kong University of Science and Technology (HKUST) and Hong Kong Polytechnic University (PolyU). 
 
 # Research Experiences
 
