@@ -11,7 +11,7 @@ redirect_from:
 
 # Education 
 
-* Undergraduate student in Automation, South China University of Techonology, 2016.9-present 
+* Undergraduate in Automation, South China University of Techonology, 2016.9-present 
 
 [//]: ![imagescut]({{'/images/scut_logo30.png' | prepend: site.baseurl}})
 
