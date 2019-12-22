@@ -17,14 +17,10 @@ redirect_from:
 
 ![imagescut]({{'/images/scut_logo30.png' | prepend: site.baseurl}})
 
-[//]: <img src="https://raw.githubusercontent.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png" align="right" width=70 height=70/>
-
-[//]: <img src='https://github.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png' align=right width=70 height=70/>
-
 # Work Experience
 
 * **SIAT-MMLAB, Center for Multimedia Technologies, CAS-SIAT** 2019.10 - present  
-Advisor: Associate Prof. [Xiaojiang Peng](https://pengxj.github.io/)
+Advisor: Associate Prof. [Xiaojiang Peng](https://pengxj.github.io/)  
 Research Interest: Deepfakes detection, 3D human & garment reconstruction
 
 # Exchange Experience
