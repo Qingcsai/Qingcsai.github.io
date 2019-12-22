@@ -31,9 +31,9 @@ redirect_from:
 # Research Experiences
 
 * A Intelligent Classroom Attendance System Based on Dynamic Face Recognition, 2018.05–2019.05
-  * Research Project of National Training Program of Innovation and Entrepreneurship for Undergraduates (Leader & Completed)。 
+  * Research Project of National Training Program of Innovation and Entrepreneurship for Undergraduates (Leader & Completed).
 * Four-rotor Aerial Mapping Intelligent Aircraft Based on Stm32f4, 2017.11–2018.12
-  * Research Project of Hundred Step Climbing Program of South China University of Technology(Completed)。 
+  * Research Project of Hundred Step Climbing Program of South China University of Technology(Completed).
 
 # Awards & Honors
 
