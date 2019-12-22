@@ -11,7 +11,9 @@ redirect_from:
 
 # Education 
 
-* Undergraduate in Automation, South China University of Techonology, 2016.9-present 
+* **South China University of Techonology, Guangzhou, China** 2016.9 - 2020.7 (expected)  
+*B.Eng, Automation*  
+*School of Automation Science & Engineering*
 
 [//]: ![imagescut]({{'/images/scut_logo30.png' | prepend: site.baseurl}})
 
@@ -21,7 +23,9 @@ redirect_from:
 
 # Work Experience
 
-* Intern in MMLAB, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2019.10-present
+* **Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences** 2019.10 - present  
+*SIAT-MMLAB*  
+*Center for Multimedia Technologies*
 
 # Exchange Experience
 
