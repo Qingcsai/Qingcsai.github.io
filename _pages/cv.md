@@ -24,7 +24,7 @@ Research Interest: Deepfakes detection, 3D human & garment reconstruction
 
 # Exchange Experience
 
-* **CUHK, HKUST, PolyU** 2018.10
+* **CUHK, HKUST, PolyU**, 2018.10
 
 # Research Experiences
 
@@ -33,14 +33,17 @@ Research Interest: Deepfakes detection, 3D human & garment reconstruction
 * Four-rotor Aerial Mapping Intelligent Aircraft Based on Stm32f4, 2017.11–2018.12
   * Research Project of Hundred Step Climbing Program of South China University of Technology(Completed).
 
-# Awards & Honors
+# Scholarship
+* The Second Prize Scholarship, 2020.10
+* The Second Prize of Goodix Technology Scholarship, 2018.12
+* National Scholarship of Encouragement, 2017.11
+
+# Awards
 
 * The 3rd Place of the “Sailing Month” Automation Control Competition of SCUT, 2017.05
-* National Endeavor Scholarship, 2017.11
 * Meritorious Winner of Mathematical Contest In Modeling, 2018.04
-* The Second Prize of Goodix Technology Scholarship, 2018.12
 * Outstanding cadres of the Communist Youth League, 2019.05
-* The Second Prize Scholarship, 2020.10
+
 
 # Social Activities
 
