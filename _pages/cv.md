@@ -15,7 +15,7 @@ redirect_from:
 *B.Eng, Automation*  
 *School of Automation Science & Engineering*
 
-[//]: ![imagescut]({{'/images/scut_logo30.png' | prepend: site.baseurl}})
+![imagescut]({{'./images/scut_logo30.png' | prepend: site.baseurl}})
 
 [//]: <img src="https://raw.githubusercontent.com/Qingcsai/Qingcsai.github.io/raw/master/images/siat_logo.png" align="right" width=70 height=70/>
 
@@ -23,14 +23,13 @@ redirect_from:
 
 # Work Experience
 
-* **Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences** 2019.10 - present  
-*SIAT-MMLAB*  
-*Center for Multimedia Technologies*
+* **SIAT-MMLAB, Center for Multimedia Technologies, CAS-SIAT** 2019.10 - present  
+Advisor: Associate Prof. [Xiaojiang Peng](https://pengxj.github.io/)
+Research Interest: Deepfakes detection, 3D human & garment reconstruction
 
 # Exchange Experience
 
-* 2018.11
-  * Short-term exchange in Chinese University of Hong Kong (CUHK), Hong Kong University of Science and Technology (HKUST) and Hong Kong Polytechnic University (PolyU). 
+* **CUHK, HKUST, PolyU** 2018.10
 
 # Research Experiences
 
