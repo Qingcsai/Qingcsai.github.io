@@ -11,6 +11,11 @@ redirect_from:
 
 Projects
 =====
+* **Finger vein recognition/match using python & opencv** (2019.12)
+  * [Project](https://github.com/Qingcsai/Finger-Vein-Recognition)
+  * My personal project for the final assignment of Class Machine Vision Application in SCUT.
+  * Using traditional ways to recognition/match images of finger vein.
+  
 * **An Intelligent Classroom Attendance System Based on Dynamic Face Recognition** (2018.05 – 2019.05)  
   * [[Project]](https://github.com/Qingcsai/Face-Recognition-Intelligent-Classroom-Attendence-System)
   * Research Project of **National Training Program of Innovation and Entrepreneurship for Undergraduates** (Completed).
@@ -20,3 +25,4 @@ Projects
   * Research Project of **Hundred Step Climbing Program of South China University of Technology** (Completed).
   * Based on stm32f4 controller, the project is developed from three aspects:stable flight control system, image segmentation algorithm and real-time data transmission system. It realizes four-rotor aerial mapping intelligent aircraft based on stm32f4. 
   * I was responsible for the construction of the four-rotor aerial, the optimization of the adaptive control algorithm and the image acquisition.
+
