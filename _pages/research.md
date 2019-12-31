@@ -12,7 +12,7 @@ redirect_from:
 Projects
 =====
 * **Finger vein recognition/match using python & opencv** (2019.12)
-  * [Project](https://github.com/Qingcsai/Finger-Vein-Recognition)
+  * [[Project]](https://github.com/Qingcsai/Finger-Vein-Recognition)
   * My personal project for the final assignment of Class Machine Vision Application in SCUT.
   * Using traditional ways to recognition/match images of finger vein.
   
