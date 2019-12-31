@@ -25,13 +25,6 @@ Research Interest: Deepfakes detection, 3D human & garment reconstruction
 
 * **CUHK, HKUST, PolyU**, 2018.10
 
-# Research Experiences
-
-* A Intelligent Classroom Attendance System Based on Dynamic Face Recognition, 2018.05–2019.05
-  * Research Project of National Training Program of Innovation and Entrepreneurship for Undergraduates (Leader & Completed).
-* Four-rotor Aerial Mapping Intelligent Aircraft Based on Stm32f4, 2017.11–2018.12
-  * Research Project of Hundred Step Climbing Program of South China University of Technology(Completed).
-
 # Scholarship
 * The Second Prize Scholarship, 2020.10
 * The Second Prize of Goodix Technology Scholarship, 2018.12
@@ -42,7 +35,6 @@ Research Interest: Deepfakes detection, 3D human & garment reconstruction
 * The 3rd Place of the “Sailing Month” Automation Control Competition of SCUT, 2017.05
 * Meritorious Winner of Mathematical Contest In Modeling, 2018.04
 * Outstanding cadres of the Communist Youth League, 2019.05
-
 
 # Social Activities
 
