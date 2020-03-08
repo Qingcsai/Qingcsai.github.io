@@ -26,15 +26,15 @@ Research Interest: Deepfakes detection, 3D human & garment reconstruction
 * **CUHK, HKUST, PolyU**, 2018.10
 
 # Scholarship
-* The Second Prize Scholarship, 2020.10
+* The Second Prize Scholarship, 2019.10
 * The Second Prize of Goodix Technology Scholarship, 2018.12
 * National Scholarship of Encouragement, 2017.11
 
 # Awards
 
-* The 3rd Place of the “Sailing Month” Automation Control Competition of SCUT, 2017.05
-* Meritorious Winner of Mathematical Contest In Modeling, 2018.04
 * Outstanding cadres of the Communist Youth League, 2019.05
+* Meritorious Winner of Mathematical Contest In Modeling, 2018.04
+* The 3rd Place of the “Sailing Month” Automation Control Competition of SCUT, 2017.05
 
 # Social Activities
 
