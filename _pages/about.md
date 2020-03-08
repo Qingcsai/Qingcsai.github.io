@@ -10,4 +10,5 @@ redirect_from:
 
 ## State
 
-学习搬砖ing...
+* In preparation for graduation
+* Internship in SIAT-MMLAB, Center for Multimedia Technologies, CAS-SIAT 
