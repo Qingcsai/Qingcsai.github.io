@@ -10,5 +10,4 @@ redirect_from:
 
 ## State
 
-* In preparation for graduation
 * Internship in SIAT-MMLAB, Center for Multimedia Technologies, CAS-SIAT 
