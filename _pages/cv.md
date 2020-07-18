@@ -11,13 +11,17 @@ redirect_from:
 
 # Education 
 
-* **South China University of Techonology, Guangzhou, China** 2016.9 - 2020.7 (expected)  
-*B.Eng, Automation*  
-*School of Automation Science & Engineering*
+* **Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences, Shenzhen, China** 2020.9 - present  
+Center for Multimedia Technologies  
+Master, Electronic Information
+
+* **South China University of Techonology, Guangzhou, China** 2016.9 - 2020.7  
+B.Eng, Automation  
+School of Automation Science & Engineering  
 
 # Work Experience
 
-* **SIAT-MMLAB, Center for Multimedia Technologies, CAS-SIAT** 2019.10 - present  
+* **[SIAT-MMLAB](http://mmlab.siat.ac.cn/), Center for Multimedia Technologies, CAS-SIAT** 2019.10 - present  
 Advisor: Associate Prof. [Xiaojiang Peng](https://pengxj.github.io/)  
 Research Interest: Deepfakes detection, 3D human & garment reconstruction
 
