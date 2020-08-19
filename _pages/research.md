@@ -13,7 +13,7 @@ Projects
 =====
 * **3D Virtual Human Try On** (2020.05)
   * [[Project]](https://github.com/Qingcsai/3DVirtualTryOn)
-  * My Graduation project in SCUT.
+  * My Graduation project in SCUT. 
   
 * **Finger vein recognition/match using python & opencv** (2019.12)
   * [[Project]](https://github.com/Qingcsai/Finger-Vein-Recognition)
