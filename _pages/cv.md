@@ -12,7 +12,7 @@ redirect_from:
 # Education 
 
 * **Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences, Shenzhen, China** 2020.9 - present  
-Center for Multimedia Technologies  
+[Center for Multimedia Technologies (SIAT-MMLAB)](http://mmlab.siat.ac.cn/)  
 Master, Electronic Information
 
 * **South China University of Techonology, Guangzhou, China** 2016.9 - 2020.7  
