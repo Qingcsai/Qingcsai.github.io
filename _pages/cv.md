@@ -18,6 +18,8 @@ Master, Electronic Information
 * **South China University of Techonology, Guangzhou, China** 2016.9 - 2020.7  
 B.Eng, Automation  
 School of Automation Science & Engineering  
+GPA: 3.76/4.0  
+Rank: 8/194
 
 # Work Experience
 
