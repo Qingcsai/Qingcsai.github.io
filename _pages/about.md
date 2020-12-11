@@ -10,5 +10,5 @@ redirect_from:
 
 ## State
 
-* Internship in SIAT-MMLAB, Center for Multimedia Technologies, CAS-SIAT, supervised by associate Prof. [Xiaojiang Peng](https://pengxj.github.io/)
+* Studying at University of Chinese Academy of Sciences in Beijing.
 * A fresh master student.
