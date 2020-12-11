@@ -17,8 +17,8 @@ Master, Electronic Information
 
 * **South China University of Techonology, Guangzhou, China** 2016.9 - 2020.7  
 School of Automation Science & Engineering  
-GPA: 3.76/4.0  
-Rank: 8/194  
+GPA: 3.78/4.0  
+Rank: 8/198 
 B.Eng, Automation  
 
 
