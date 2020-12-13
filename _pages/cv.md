@@ -25,8 +25,8 @@ B.Eng, Automation
 # Work Experience
 
 * **[SIAT-MMLAB](http://mmlab.siat.ac.cn/), Center for Multimedia Technologies, CAS-SIAT** 2019.10 - present  
-Advisor: Associate Prof. [Xiaojiang Peng](https://pengxj.github.io/)  
-Research Interest: Deepfakes detection, 3D human & garment reconstruction
+Advisor: Associate Prof. [Xiaojiang Peng](https://pengxj.github.io/) ,Prof. [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/)  
+Research : Deepfakes detection, 3D human & garment reconstruction
 
 # Exchange Experience
 
