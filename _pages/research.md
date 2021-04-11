@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Contests
+=====
+* **CCF BDCI Remote sensing image segmentation** (2021.01)
+  * [Rank 1](https://www.datafountain.cn/competitions/475/)
+  * [Code](https://github.com/Andy1621/seg-for-fun)
+
 Projects
 =====
 * **3D Virtual Human Try On** (2020.05)
