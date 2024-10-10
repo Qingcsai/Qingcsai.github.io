@@ -10,5 +10,4 @@ redirect_from:
 
 ## State
 
-* Studying at University of Chinese Academy of Sciences in Beijing.
-* A fresh master student.
+* 07/2024 Working at DJI as a computer vision engineer.
